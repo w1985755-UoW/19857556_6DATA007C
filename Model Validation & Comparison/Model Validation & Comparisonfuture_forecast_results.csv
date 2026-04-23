@@ -1,0 +1,17 @@
+Series,Model,Year,Forecast,CI_Lower,CI_Upper
+Anuradhapura Maha,"ARIMAX(1,2,1)",2025,4286.45,3176.24,5396.67
+Anuradhapura Maha,"ARIMAX(1,2,1)",2026,4296.53,2821.24,5771.81
+Anuradhapura Maha,"ARIMAX(1,2,1)",2027,4313.48,2514.29,6112.68
+Anuradhapura Maha,"ARIMAX(1,2,1)",2028,4329.35,2243.24,6415.46
+Anuradhapura Yala,"ARIMA(1,1,1)",2026,4762.55,3886.12,5638.98
+Anuradhapura Yala,"ARIMA(1,1,1)",2027,4672.11,3677.94,5666.28
+Anuradhapura Yala,"ARIMA(1,1,1)",2028,4639.22,3594.44,5684.0
+Anuradhapura Yala,"ARIMA(1,1,1)",2029,4627.25,3548.81,5705.7
+Polonnaruwa  Maha,"ARIMAX(1,0,1)",2025,4766.29,3989.45,5543.12
+Polonnaruwa  Maha,"ARIMAX(1,0,1)",2026,4629.7,3761.05,5498.34
+Polonnaruwa  Maha,"ARIMAX(1,0,1)",2027,4693.65,3806.15,5581.15
+Polonnaruwa  Maha,"ARIMAX(1,0,1)",2028,4663.71,3772.12,5555.29
+Polonnaruwa  Yala,"ARIMA(1,2,1)",2026,5375.38,4574.51,6176.25
+Polonnaruwa  Yala,"ARIMA(1,2,1)",2027,5407.86,4372.69,6443.03
+Polonnaruwa  Yala,"ARIMA(1,2,1)",2028,5472.73,4216.04,6729.43
+Polonnaruwa  Yala,"ARIMA(1,2,1)",2029,5530.68,4079.75,6981.62

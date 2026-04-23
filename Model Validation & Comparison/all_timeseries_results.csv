@@ -1,0 +1,17 @@
+Series,Model,R²,RMSE,MAE
+Anuradhapura Maha,"ARIMA(1, 2, 1)",-0.1317,941.77,805.41
+Anuradhapura Maha,"ARIMAX(1, 2, 1)",-0.0552,909.39,788.82
+Anuradhapura Maha,"SARIMA(1, 2, 1)(1, 2, 0, 2)",-1.269,1333.53,1162.41
+Anuradhapura Maha,"SARIMAX(1, 2, 1)(1, 2, 0, 2)",-7.7775,2622.83,2138.43
+Anuradhapura Yala,"ARIMA(1, 1, 1)",-0.8837,831.14,774.77
+Anuradhapura Yala,"ARIMAX(1, 1, 1)",-1.5448,966.04,949.43
+Anuradhapura Yala,"SARIMA(1, 1, 1)(1, 1, 0, 2)",-5.1055,1496.34,1365.32
+Anuradhapura Yala,"SARIMAX(1, 1, 1)(1, 1, 0, 2)",-14.0266,2347.47,2170.76
+Polonnaruwa  Maha,"ARIMA(1, 0, 1)",-0.0244,719.89,493.89
+Polonnaruwa  Maha,"ARIMAX(1, 0, 1)",0.0564,690.92,477.84
+Polonnaruwa  Maha,"SARIMA(1, 0, 1)(1, 0, 0, 2)",-0.08,739.19,500.21
+Polonnaruwa  Maha,"SARIMAX(1, 0, 1)(1, 0, 0, 2)",-0.099,745.66,497.88
+Polonnaruwa  Yala,"ARIMA(1, 2, 1)",-0.1108,432.17,360.2
+Polonnaruwa  Yala,"ARIMAX(1, 2, 1)",-0.6378,524.77,453.1
+Polonnaruwa  Yala,"SARIMA(1, 2, 1)(1, 2, 0, 2)",-21.9908,1966.16,1584.32
+Polonnaruwa  Yala,"SARIMAX(1, 2, 1)(1, 2, 0, 2)",-22.4543,1985.88,1613.01
